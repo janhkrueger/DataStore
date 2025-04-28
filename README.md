@@ -43,7 +43,7 @@ The config file is prepared with configvalues and properties suiting my needs. P
 
 Just a wrapper to start the loading with one easy command. If you store your config file on another folder or using another name, please adjust this file.
 
-### yt.conf
+### yt-dlp.conf
 
 Central definition of config parameters and values so I don't need to pass them everytime to the `yt-dlp` command. In the config file they can also kept clearer and more visible.
 

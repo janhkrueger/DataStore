@@ -1,2 +1,2 @@
 #!/bin/bash
-yt-dlp --config-location ./yt.conf
+yt-dlp --config-location ./yt-dlp.conf
