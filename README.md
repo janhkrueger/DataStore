@@ -28,7 +28,8 @@ For example:
 
 `"Music For Programming" https://musicforprogramming.net/rss.xml`
 
-> [!CAUTION] There needs to be at least one line!
+> [!CAUTION]
+> There needs to be at least one line!
 
 
 
